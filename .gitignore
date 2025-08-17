@@ -1,0 +1,4 @@
+wikipedia-20070206.tar.gz
+wikipedia-20070206/
+*.o
+*.so
